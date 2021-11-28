@@ -1,0 +1,46 @@
+*{
+     
+    text-align: center;
+    margin: 0vw;
+}
+
+
+
+
+
+.template
+{
+    display: flex;
+    justify-content: center;
+}
+.template1
+{
+    display: flex;
+    margin-top: 20px;
+    justify-content: center;
+}
+
+.template2,.template3,.template4,.template5,.template6,.template7,.template8
+{
+    display: flex;
+    margin-top: 20px;
+    justify-content: center;
+      
+}
+.row41
+{
+    position: absolute;
+    transform:translateY(5px);
+
+}
+.row41{
+    background-color: red!important;
+}
+ .template6
+{
+    
+    margin-top: 20px;
+    margin-left:10vw;
+     
+     
+} 
